@@ -23,7 +23,4 @@ Student-Result-Management-System/
 │   └── background.jpg
 │
 ├── README.md              # Full project documentation (already prepared)
-│
-├── requirements.txt       # Dependencies list (only pillow here)
-│
-└── LICENSE                # (Optional) License file if you want to add
+
